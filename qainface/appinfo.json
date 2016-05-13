@@ -1,0 +1,26 @@
+{
+  "uuid": "6e190973-b1c3-4e77-b427-b9e43204138b",
+  "shortName": "QainFace",
+  "longName": "Qain Right Thing",
+  "companyName": "hbh7",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+		{
+			"type": "raw",
+			"name": "ANIMATION",
+			"file": "images/qain.png"
+		}
+	
+	
+	]
+  }
+}
